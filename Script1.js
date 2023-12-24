@@ -50,7 +50,7 @@ display.style.marginTop="20px";
 ;
  display.style.fontSize="80px";
 display.style.textAlign="center"
-display.style.fontSize="30px"
+display.style.fontSize="25px"
 display.style.paddingTop="50px";
 display.style.width="50px";
 
